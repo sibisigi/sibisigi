@@ -1,9 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on building a marketing agency
-- 🌱 I’m currently learning data analytics with Power BI
 - 👯 I’m looking to collaborate on growing your business 
 
-- 📫 How to reach me:
+- 📫 Reach me at:
   silvijabisigirskyte@gmail.com
 
 <!--
